@@ -1,9 +1,9 @@
 {
   "squadName" : "Super hero squad",
   "stateName": "Uttar Pradesh",
-  "homeTown" : "Metro City",
+  "homeTown" : "Kanpur Nagar",
   "formed" : 2016,
-  "secretBase" : "Super tower",
+  "secretBase" : "ghantaghar",
   "active" : true,
   "members" : [
     {
